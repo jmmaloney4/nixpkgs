@@ -11439,6 +11439,12 @@
     githubId = 43830312;
     name = "Joël Miramon";
   };
+  jmmaloney4 = {
+    email = "jmmaloney4@gmail.com";
+    github = "jmmaloney4";
+    githubId = 5781547;
+    name = "Jack Maloney";
+  };
   jn-sena = {
     email = "jn-sena@proton.me";
     github = "jn-sena";
